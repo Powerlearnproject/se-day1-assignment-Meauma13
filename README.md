@@ -16,7 +16,7 @@ Three key milestones in the evolution of software engineering include:
 
 2. The advancement of powerful computer hardware with higher CPU and RAM features as well as better improved storage disk drives.
 
-3. The progress from distributed computing to cloud computing, rhus enabling software and business applications to be more readily accessible globally without extensive infrastructure costs.
+3. The progress from distributed computing to cloud computing, thus enabling software and business applications to be more readily accessible globally without extensive infrastructure costs.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
@@ -45,9 +45,9 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 
 A Software Developer is one tasked with developing applications,programs and systems using programming languages and frameworks, maintains and updates software to keep it functional, collaborates with other team members to ensure best practice when developing software.
 
-A Quality Assurance Engineer id one who collaborates with stakeholders to understand and clarify software requirement, creates development standards and procedures for the programmers to follow, confirms that the software meets the requirement before deployment, analyzes the product to identify bugs and suggest changes to make them more efficient.
+A Quality Assurance Engineer is one who collaborates with stakeholders to understand and clarify software requirement, creates development standards and procedures for the programmers to follow, confirms that the software meets the requirements before deployment, analyzes the product to identify bugs and suggest changes to make them more efficient.
 
-A Project Manager is one who assembles and leads the software development team, discusses the project and its requirement with the client and software developers, creates a blueprint for the project, tracks and communicates information regarding the project milestone, delivers the complete software to the client and regularly check its performance.
+A Project Manager is one who assembles and leads the software development team, discusses the project and its requirement with the client and software developers, creates a blueprint for the project, tracks and communicates information regarding the project milestones, delivers the complete software to the client and regularly checks its performance.
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
@@ -61,38 +61,45 @@ What are some common challenges faced by software engineers? Provide strategies 
 
 Rapid technological advancement places considerable pressure on software engineers to stay current.
 
-Solution: adopting continuous learning practices and using agile methodologies to adapt to emerging trends, keeping their skills sharp in an ever-evolving industry. -
+Solution: adopting continuous learning practices and using agile methodologies to adapt to emerging trends, keeping their skills sharp in an ever-evolving industry.
+
 
 Time Constraints - Software engineering is a demanding and time-intensive field, often requiring engineers to work under high pressure to meet tight deadlines.
 
-Solution: adopt agile methodologies, such as Scrum, to streamline workflows by dividing large projects into manageable sprints
+Solution: adopt agile methodologies, such as Scrum, to streamline workflows by dividing large projects into manageable sprints.
+
 
 Limited Infrastructure - limited high-performance software engineering tools and computing platforms and inefficient data storage architectures.
 
 Solution: Software engineers must rely heavily on a robust infrastructure to perform their jobs effectively.
 
+
 Changing Software Requirements - Software requirements are often dynamic and subject to frequent changes, making it challenging for engineers to design and develop solutions that meet users' needs while accounting for future updates and bug fixes.
 
 Solution: engineers can adopt approaches like agile development, which emphasizes iterative progress and adaptability, and modular design, which enables flexibility by breaking systems into manageable, independent components.
 
+
 Software Security - Programming secure software is a complex and challenging task.
 
-Solution: research ways to defend against hacking, malware, phishing, insider and third-party threats
+Solution: research ways to defend against hacking, malware, phishing, insider and third-party threats.
+
 
 Software Accessibility and Usability - Overly complex software can frustrate or confuse users.
 
 Solution: Use scalable architecture, Emphasize reliability.
 
 
+
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
-1. Unit tests - are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software. - it ensures that each unit performs its intended function correctly, isolated from other components.
+1. Unit tests - are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software. It ensures that each unit performs its intended function correctly, isolated from other components.
 
 2. Integration tests - verify that different modules or services used by your application work well together, also helps to ensure data flows smoothly between modules and interfaces work as expected.
 
 3. System testing - focus on the entire software system as a whole, including all functionalities and interactions. It helps to verify that the system meets all functional and non-functional requirements, including performance, usability, and security.
 
 4. Acceptance tests - are formal tests that verify if a system satisfies business requirements. They require the entire application to be running while testing and focus on replicating user behaviors. It determines whether the software meets the needs of the end-user and is ready for deployment.
+
 
 
 #Part 2: Introduction to AI and Prompt Engineering
